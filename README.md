@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Test driven Development
 
-> Description the project.
+> In this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD). which means we write the tests first then the logic.
 
 
 ## Built With
